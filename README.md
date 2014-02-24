@@ -5,7 +5,7 @@ Javascript JQuery plugin to implement a spinner (input box + plus/minus icons).
 
 Quick spin (on click) + fast spin (when holding the mouse down) with separate increase-by values.
 
-Events attached using `Jquery.on`, therefor persisting regardless of internal DOM manipulations.
+Events attached using `Jquery.on`, therefore persisting regardless of internal DOM manipulations.
 
 alpha version
 
